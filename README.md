@@ -1,6 +1,6 @@
 # M7884 Intercom Keypad · Communication
 
-Ward-Beck Systems M7884, 1996|29. Wiki page: [M7884 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M7884.html)
+Ward-Beck Systems M7884, 1996|29. Wiki page: [M7884 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M7884-Intercom-Keypad/)
 
 | Folder | What is in it | Files |
 |---|---|---|
